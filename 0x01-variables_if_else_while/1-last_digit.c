@@ -9,9 +9,7 @@ int main(void)
 {
 
 						int final;
-
 						int n;
-
 						srand(time(0));
 						n = rand() - RAND_MAX / 2;
 						final = n % 10;
