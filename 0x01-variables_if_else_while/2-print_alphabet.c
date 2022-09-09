@@ -1,15 +1,16 @@
 #include <stdio.h>
-/** 
+
+/**
 *main - me just wan do magic here i no send anybody
 *Return: always 0 (success)
 */
 int main(void)
 {
-char Ini="a";
-while (Ini <= z)
+char henry="a";
+while (henry <= z)
 {
-putchar("%c ",Ini);
-Ini++;
+putchar("%c ",henry);
+henry++;
 }
 putchar("\n");
 return (0);
