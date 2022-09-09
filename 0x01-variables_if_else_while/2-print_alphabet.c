@@ -5,13 +5,12 @@
 */
 int main(void)
 {
-		char henry="a";
-		while (henry <= z)
-		{
-		putchar("%c ",henry);
-		henry++;
-		}
-		putchar("\n");
-		return (0);
-
+char henry="a";
+while (henry <= z)
+{
+putchar("%c ",henry);
+henry++;
+}
+putchar("\n");
+return (0);
 }
