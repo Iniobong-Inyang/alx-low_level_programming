@@ -3,10 +3,10 @@
  * main - print numbers between 00 to 89
  * Return: Always 0 (success)
  */
-int main (void)
+int main(void)
 {
-	int i , e;
-	i = 48;
+	int i, e;
+	i= 48;
 	e = 48;
 	while (e < 58)
 	{
