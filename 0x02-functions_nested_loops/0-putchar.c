@@ -1,14 +1,18 @@
 #include <stdio.h>
-/**
-*main - Prints "ini" followed by a new line.
-*Return: Always 0.
-*/
+
 int main(void)
-int _putchar char c
+
+
+
 {
-_putchar('i');
-_putchar('n');
-_putchar('n');
-_putchar('\n');
-return (0) 
+char text[9] = "_putchar";
+
+int i = 0;
+for (i = 0; i < 8; i++)
+{
+putchar(text[i]);
+}
+putchar('\n');
+return (0);
+
 }
