@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ *main - program that prints _putchar, followed by a new line.
+ * Return: always zero or something else passed
+ */
 int main(void)
 
 
