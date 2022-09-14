@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
 *_islower - just an if statement
